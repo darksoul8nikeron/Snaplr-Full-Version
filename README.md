@@ -255,4 +255,4 @@ This repository serves as the official landing page for Snaplr. The software is 
 **Get the most recent version of Snaplr today!**
 
 ---
-**Last updated:** 2026-10-09 17:19:15 UTC
+**Last updated:** 2026-10-09 22:16:47 UTC
